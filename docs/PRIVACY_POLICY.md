@@ -64,8 +64,8 @@ We may update this policy. The “Last updated” date will reflect changes.
 
 For privacy questions or support:
 
-- **Email:** support@example.com *(replace with your address)*
-- **GitHub Issues:** https://github.com/YOUR_USERNAME/Domain-SSL-Watcher/issues *(replace)*
+- **Email:** art.lanphoon@gmail.com 
+- **GitHub Issues:** https://github.com/1900/Domain-SSL-Watcher/issues 
 
 ---
 
